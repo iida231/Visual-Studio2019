@@ -13,10 +13,17 @@
 |ctr+alt+L|ソリューションエクスプローラー表示|
 |shift+F10|右クリック|
 
-## プログラミング関連
+## コードスニペット
+
+- 開くのはctr+k+x
 
 |ショートカット|機能|
 |---|---|
 |prop|フィールド|
 |ctor|コンストラクタ|
 
+## コードスニペットの作成方法
+
+[スニペット作成方法](http://tools.unitycoder.com/VisualStudioSnippetsGenerator/)
+
+上記のサイトでコードスニペットを作成し、visualstudioのツール、コードスニペットマネージャーに登録する。
