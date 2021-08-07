@@ -12,6 +12,10 @@
     - [1.2.7. Output enhancer](#127-output-enhancer)
     - [1.2.8. IndentRainbow](#128-indentrainbow)
     - [1.2.9. Add new File](#129-add-new-file)
+    - [1.2.10. Ref12](#1210-ref12)
+    - [1.2.11. xaml stylar](#1211-xaml-stylar)
+    - [1.2.12. Toggle Comment](#1212-toggle-comment)
+    - [1.2.13. BuildVision](#1213-buildvision)
   - [1.2. ショートカットキー](#12-ショートカットキー)
   - [1.3. タスク一覧の使用](#13-タスク一覧の使用)
   - [1.4. コードスニペット](#14-コードスニペット)
@@ -31,6 +35,11 @@
 
 ## 1.2. おすすめ拡張機能
 
+- 拡張機能の入れ方
+以下の部分から導入する
+![](Images/2021-08-07-21-10-35.png)
+
+
 |拡張機能名|機能|
 |---|---|
 |[Viasfora](#121-viasfora)|カッコに色がつく|
@@ -42,6 +51,10 @@
 |[Output enhancer](#127-output-enhancer)|出力ウィンドウのエラーと警告に色を付ける|
 |[IndentRainbow](#128-indentrainbow)|インデントの深さを色分け|
 |[Add New File](#129-add-new-file)|shift+f2でクラス追加|
+|[Ref 12](#1210-ref12)|公式の参照先に飛べる|
+|[xaml-stylar](#1211-xaml-stylar)|xamlのコードを整えてくれる|
+|[Toggle command](#1212-toggle-comment)|ctrl+/でコメント、コメント解除できる|
+|[Bild Vision](#1213-buildvision)|ビルドにかかった時間や履歴が見れるようになる|
 
 
 ### 1.2.1. Viasfora
@@ -84,6 +97,21 @@
 
 ![](Images/2021-08-03-22-56-24.png)
 
+### 1.2.10. Ref12
+
+![](Images/2021-08-07-21-15-20.png)
+
+### 1.2.11. xaml stylar
+
+![](Images/2021-08-07-21-16-24.png)
+
+### 1.2.12. Toggle Comment
+
+https://marketplace.visualstudio.com/items?itemName=munyabe.ToggleComment
+
+### 1.2.13. BuildVision
+
+![](Images/2021-08-07-21-14-33.png)
 
 ## 1.2. ショートカットキー
 
