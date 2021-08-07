@@ -54,7 +54,7 @@
 |[Ref 12](#1210-ref12)|公式の参照先に飛べる|
 |[xaml-stylar](#1211-xaml-stylar)|xamlのコードを整えてくれる|
 |[Toggle command](#1212-toggle-comment)|ctrl+/でコメント、コメント解除できる|
-|[Bild Vision](#1213-buildvision)|ビルドにかかった時間や履歴が見れるようになる|
+|[BuildVision](#1213-buildvision)|ビルドにかかった時間や履歴が見れるようになる|
 
 
 ### 1.2.1. Viasfora
