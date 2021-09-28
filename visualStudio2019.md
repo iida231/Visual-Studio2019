@@ -16,6 +16,8 @@
     - [1.2.11. xaml stylar](#1211-xaml-stylar)
     - [1.2.12. Toggle Comment](#1212-toggle-comment)
     - [1.2.13. BuildVision](#1213-buildvision)
+    - [1.2.14. CodeMaid](#1214-codemaid)
+    - [1.2.15. DiagramGenerator](#1215-diagramgenerator)
   - [1.2. ショートカットキー](#12-ショートカットキー)
   - [1.3. タスク一覧の使用](#13-タスク一覧の使用)
   - [1.4. コードスニペット](#14-コードスニペット)
@@ -55,6 +57,8 @@
 |[xaml-stylar](#1211-xaml-stylar)|xamlのコードを整えてくれる|
 |[Toggle command](#1212-toggle-comment)|ctrl+/でコメント、コメント解除できる|
 |[BuildVision](#1213-buildvision)|ビルドにかかった時間や履歴が見れるようになる|
+|[Codemaid](#1214-codemaid)|コードの整形を自動に行う|
+|[PlantUmlClassDiagramGenerator](#1215-diagramgenerator)|コードからクラス図を自動的に書いてくれる|
 
 
 ### 1.2.1. Viasfora
@@ -112,6 +116,14 @@ https://marketplace.visualstudio.com/items?itemName=munyabe.ToggleComment
 ### 1.2.13. BuildVision
 
 ![](Images/2021-08-07-21-14-33.png)
+
+### 1.2.14. CodeMaid
+
+[公式参考](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
+
+### 1.2.15. DiagramGenerator
+
+[公式参考](https://www.nuget.org/packages/PlantUmlClassDiagramGenerator/)
 
 ## 1.2. ショートカットキー
 
