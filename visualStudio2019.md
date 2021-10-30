@@ -152,6 +152,10 @@ https://marketplace.visualstudio.com/items?itemName=munyabe.ToggleComment
 |コード保管|Ctrl+space|
 |すべてのテストを実行|ctr+r,a|
 |タスク一覧の表示|ctr+\,t|
+|F9|ブレークポイントを張れる|
+|F10|ステップオーバーができる。関数があった場合中に入らない|
+|F11|ステップインができる。1行ずつ実行する|
+|shift+F11|ステップアウトができる。関数が終わるまで実行する|
 
 ## 1.3. タスク一覧の使用
 
