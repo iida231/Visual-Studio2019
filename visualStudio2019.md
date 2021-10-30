@@ -136,8 +136,12 @@ https://marketplace.visualstudio.com/items?itemName=munyabe.ToggleComment
 |ctr+-|直前に参照した行に移動|
 |ctr+shift+-|直後に参照した行に移動|
 |ctr+,|移動|
+|tag間の移動|Ctrl+Alt+PageupDown|
 |ctr+f|単語検索|
+|ctr+h|単語置換|
 |end|行の最後に移動|
+|コードスニペットの挿入|Ctrl+K,Ctrl+K|
+|ブロックの挿入|Ctrl+K,Ctrl+S|
 |行の先頭に移動|home|
 |行番号で移動|ctr+g|
 |フォーマット|ctr+k+d|
@@ -148,14 +152,20 @@ https://marketplace.visualstudio.com/items?itemName=munyabe.ToggleComment
 |コメント|ctr+k+c|
 |コメント解除|ctr+k+u|
 |定義に移動|F12|
+|定義をここに表示|alt+F12|
+|実装に移動|Ctrl+F12|
+|エラー箇所に飛ぶ|Ctrl+shift+F12|
 |呼び出し元を検索|Shift+F12|
 |コード保管|Ctrl+space|
 |すべてのテストを実行|ctr+r,a|
 |タスク一覧の表示|ctr+\,t|
+|アウトライン切り替え|Ctrl+M,Ctrl+M|
+|ファイル全体のアウトラインの切り替え|Ctrl+M,Ctrl+L|
 |F9|ブレークポイントを張れる|
 |F10|ステップオーバーができる。関数があった場合中に入らない|
 |F11|ステップインができる。1行ずつ実行する|
 |shift+F11|ステップアウトができる。関数が終わるまで実行する|
+
 
 ## 1.3. タスク一覧の使用
 
